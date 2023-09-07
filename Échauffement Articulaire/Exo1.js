@@ -1,4 +1,4 @@
-var nombreATester = 7;
+let nombreATester = 7;
 
 
 function PairOuImpair(nombre) {
@@ -9,5 +9,5 @@ function PairOuImpair(nombre) {
   }
 }
 
-var resultat = PairOuImpair(nombreATester);
+let resultat = PairOuImpair(nombreATester);
 console.log(resultat);

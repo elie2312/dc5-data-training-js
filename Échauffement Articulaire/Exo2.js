@@ -1,4 +1,4 @@
-var anneeATester = 2023;
+let anneeATester = 2023;
 
 
 function Bissextile(annee) {
@@ -9,6 +9,6 @@ function Bissextile(annee) {
     }
   }
   
-  var resultat = Bissextile(anneeATester);
+  let resultat = Bissextile(anneeATester);
   console.log(resultat);
   
